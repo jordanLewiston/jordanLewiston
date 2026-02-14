@@ -1,6 +1,6 @@
-# 🌌 Hi, I'm Jordan Lewiston 👋
+# Всем Привет! Меня зовут Джордан.
 
-Welcome! Select your language / ¡Bienvenido! Selecciona tu idioma:
+Моя страница на Английском/My profile in English. :
 
 - [English](README.en.md)
 
