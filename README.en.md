@@ -1,29 +1,66 @@
-# Hi, I'm Jordan Lewiston 👋
+# 👋 Hi there! I'm Jordan
 
-## 🌌 About Me
-- Real name: Jordan Ponomarenko (public: Jordan Lewiston)
-- Explorer of **C/C++, UE5, QT5, Linux, embedded systems, CMake**, and some **Java Spring Boot with Maven**  
-- Philosophy: **UNIX only UNIX**  
-- Dream: Become a **lawyer in a forcivable future**  
-- Music: Punk rock & pop punk lover  
-- Quirky humor: `sudo rm -rf /` will clean the soul from sins 😈  
+My Russian profile: [Русская версия](README.md)
 
-## ⚡ Skills
-- **Languages:** C/C++, Java  
-- **Frameworks / Tools:** UE5, QT5, Spring Boot, Maven, CMake, Linux  
-- **Systems & Embedded:** Linux, low-level embedded development  
+---
 
-## 🖋️ Projects & Links
-- **LeetCode:** [leetcode.com/u/jordanlewiston](https://leetcode.com/u/jordanlewiston/)  
-- **LinkedIn:** [linkedin.com/in/jordan-lewiston](https://www.linkedin.com/in/jordan-lewiston?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- **Twitter/X:** [x.com/jlewiston](https://x.com/jlewiston?s=21)  
-- **StackOverflow:** [stackoverflow.com/users/27335263/jordan-ponomarenko](https://stackoverflow.com/users/27335263/jordan-ponomarenko)  
-- **YouTube:** [youtube.com/@Jordylewiston](https://www.youtube.com/@Jordylewiston)  
+## 🧠 About Me
+- Full Name: **Jordan Ponomarenko**
+- Public Name: **Jordan Lewiston**
+- Main Programming Languages: **C, C++, Swift**
+- Additional Languages: Python, Java, Bash
+- Daily OS: Arch Linux, Pop!_OS, macOS
+- Philosophy: **UNIX only, UNIX forever**
+- Music Taste: Punk Rock, Pop Punk, Classic Rock
+- Humor: `sudo rm -rf /` will cleanse the soul from sins 😈
 
-## 📈 GitHub Stats
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanLewiston&show_icons=true&theme=dark)
+---
 
-## 🌱 Currently Learning
-- Kernel-level Linux hacks & embedded systems  
-- Unreal Engine 5 deep dives  
-- Philosophy of UNIX & terminal wizardry  
+## ⚙️ Tech Stack
+- Qt5
+- Unreal Engine 5
+- CMake / Make / Ninja
+- POSIX
+- GTK
+- Vulkan / OpenGL
+- Firebase
+- TensorFlow
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jordanLewiston&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jordanLewiston&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jordanLewiston&theme=tokyonight)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jordanlewiston?theme=dark)
+
+---
+
+## 🌍 Languages
+- Russian — Fluent
+- English — Fluent
+- Spanish — Beginner
+- French — Beginner
+- German — Beginner
+
+---
+
+## 🧩 Personal Traits
+- Good listener
+- Communication
+- Project management
+- Stress-resistant
+- Responsible
+
+---
+
+## 🎯 Achievements & Badges
+![Profile Views](https://img.shields.io/github/profile/views/jordanLewiston?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/jordanLewiston?style=for-the-badge)
+![Public Repos](https://img.shields.io/github/repos/jordanLewiston?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/jordanLewiston?style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jordanLewiston)
