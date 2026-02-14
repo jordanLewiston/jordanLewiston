@@ -9,9 +9,9 @@
 - Мое публичное имя: Джордан Льюстон;
 - Основные языки на которых я программирую: C, C++, Swift;
 - Языки которые знаю в общем: Python, Java, C, C++, Swift, Bash;
-- Какими ОС я пользуюсь каждый день: MacOS Tahoe 26, Pop_OS, Arch Linux;
+- Какими ОС я пользуюсь каждый день: MacOS, Pop_OS, Arch Linux;
 - Моя философия: Unix и только Unix;
-- Мой стэк: QT5, UE5, CMake, Make, Ninja, curl, POSIX, Firebase, STL, GDM, vulkan, opengl, tensorflow;
+- Мой стэк: QT5, UE5, CMake, Make, Ninja, curl, POSIX, Firebase, STL, GTK, vulkan, opengl, tensorflow;
 - Мой музыкальный вкус: Панк рок, поп панк, классический рок;
 - Мой вид юмора: sudo rm -rf / очистит всю душу от грехов;
 - Если будут какие нибудь еще вопросы то задавайте пожалуйста.
@@ -20,7 +20,7 @@
 В Основе я уже рассказал про них выше но все равно повторю:
 - Основные Языки: C, C++, Swift;
 - Дополнительные языки какие я знаю: Python, Java, Bash;
-- Мои Стэки/Фреймворки: QT5, UE5, CMake, Make, Ninja, curl, POSIX, Firebase, STL, GDM, vulkan, opengl, tensorflow;
+- Мои Стэки/Фреймворки: QT5, UE5, CMake, Make, Ninja, curl, POSIX, Firebase, STL, GTK, vulkan, opengl, tensorflow;
 - Мои таргет ОС: Linux, MacOS;
 
 
