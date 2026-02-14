@@ -38,7 +38,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jordanLewiston&theme=tokyonight)
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/jordanlewiston?theme=dark)
 
 
 
