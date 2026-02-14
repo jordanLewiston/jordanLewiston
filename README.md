@@ -43,3 +43,6 @@
 - Управление проектами
 - Стрессоустойчивость
 - Ответственность
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jordanLewiston&theme=dark)
+
