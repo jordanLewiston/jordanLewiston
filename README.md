@@ -26,6 +26,8 @@
 - Firebase
 - TensorFlow
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanLewiston&layout=compact&theme=dark)
+
 ---
 
 ## 🌍 Языки
@@ -44,5 +46,8 @@
 - Стрессоустойчивость
 - Ответственность
 
+## GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=jordanLewiston&theme=dark)
+
+
 
